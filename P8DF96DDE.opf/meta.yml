@@ -1,0 +1,31 @@
+id: P8DF96DDE
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6041
+  instance_id: http://purl.bdrc.io/resource/IE1KG6041
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྒྱ་ཡིག་གི་བྱུང་བ་བརྗོད་པ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - han zi de gu shi
+  author: http://purl.bdrc.io/resource/P10055
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    c9b09e011e904577b4a8cad397ed9196:
+      title: པོད ༡་རྒྱ་ཡིག་གི་བྱུང་བ་བརྗོད་པ།
+      volume_number: 1
+      base_file: UT1KG6041_I1KG8411_0000.txt
+      reference: http://purl.bdrc.io/resource/VL966759EC1C5FBFF4
+      image_group: I1KG8411
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG6041
+  - http://purl.bdrc.io/resource/MW1KG6041
+  ocr_software: Namsel
+created_at: '2021-12-22T10:53:24.017392'
+last_modified_at: '2021-12-22T10:53:24.017399'
